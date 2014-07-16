@@ -1,3 +1,8 @@
+"""
+parse.py
+Matthew Cross <blacklightgfx@gmail.com>
+Apache V2 License
+"""
 import xml.etree.ElementTree as ET
 import csv
 import sys
